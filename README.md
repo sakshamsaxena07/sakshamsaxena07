@@ -1,5 +1,5 @@
 # Hi there 👋  I’m Saksham Saxena 
-##I’m a data enthusiast currently pursuing a diploma from AAFT Noida and a graduation degree from UPES Dehradun. With a strong interest in data-driven insights, I’m building my skills in data analysis, visualization, and machine learning.
+I’m a data enthusiast currently pursuing a diploma from AAFT Noida and a graduation degree from UPES Dehradun. With a strong interest in data-driven insights, I’m building my skills in data analysis, visualization, and machine learning.
 
 💻 I’ve worked on several data science projects, exploring real-world problems through Python, pandas, NumPy, Matplotlib, and other tools. I’m passionate about transforming raw data into meaningful insights.
 
