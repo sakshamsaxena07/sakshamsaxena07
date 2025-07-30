@@ -6,6 +6,9 @@ I’m a data enthusiast currently pursuing a diploma from AAFT Noida and a gradu
 📊 Always open to collaboration, feedback, and learning new things in the world of data science.
 
 Let’s connect and grow together in the field of analytics!
+
+# This is my portfolio 
+https://github.com/sakshamsaxena07?tab=repositories
 <!--
 **sakshamsaxena07/sakshamsaxena07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
